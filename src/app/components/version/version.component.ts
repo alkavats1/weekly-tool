@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
-import { APP_VERSION } from '../../../environments/version';
+import { APP_VERSION } from '@angular/fire/analytics';
+
 
 @Component({
   selector: 'wt-version',
