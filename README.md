@@ -2,6 +2,12 @@
 
 A tool for any company who create a dynamic weekly meeting with all employees. At the moment is only avaliable in Spanish.
 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors)
+
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 ## Getting Started
 
 Follow the steps below:
@@ -45,8 +51,8 @@ Run all tests
 ```
 npm run cmd:test
 ```
-![image](https://user-images.githubusercontent.com/20727215/151627076-8c9b080a-7a26-4d2b-b356-8064c914b22d.png)
 
+![image](https://user-images.githubusercontent.com/20727215/151627076-8c9b080a-7a26-4d2b-b356-8064c914b22d.png)
 
 Enjoy 🎉
 
@@ -93,3 +99,23 @@ This section is for take notes about the meeting finish. It have three columns (
 
 This section is a free versionof breckout using a set of google meet room. each member will have a random link
 ![image](https://user-images.githubusercontent.com/20727215/150141665-f77cc951-ff37-4031-bd63-b1fbfa088d9f.png)
+
+
+
+
+  <p align="center"> 
+  <a href="https://cafecito.app/palabrasaleatorias">
+    <img src="https://cdn.cafecito.app/imgs/buttons/button_1.svg" alt="cafecito icon">
+  </a>
+</p>
+
+<h3 align="center"> 
+  <a href="https://www.buymeacoffee.com/alexscigalszky">
+    Buy me a Book
+  </a>
+</h3>
+<h3 align="center"> 
+  <a href="https://ko-fi.com/Y8Y7BUT9N">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko.fi icon">
+  </a>
+</h3>
